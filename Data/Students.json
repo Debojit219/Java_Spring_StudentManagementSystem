@@ -1,0 +1,122 @@
+[
+  {
+    "name": "John Doe",
+    "uniqueId": "1001",
+    "regularClassDays": ["MONDAY", "WEDNESDAY"],
+    "feeAmount": 1500.0,
+    "emailId": "johndoe@example.com",
+    "phoneNumber": "1234567890",
+    "classOrPurpose": "Math",
+    "dateOfBirth": "2002-05-10",
+    "password": "student1@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Alice Smith",
+    "uniqueId": "1002",
+    "regularClassDays": ["TUESDAY", "THURSDAY"],
+    "feeAmount": 2000.0,
+    "emailId": "alice@example.com",
+    "phoneNumber": "9876543210",
+    "classOrPurpose": "English",
+    "dateOfBirth": "2003-08-15",
+    "password": "student2@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Bob Johnson",
+    "uniqueId": "1003",
+    "regularClassDays": ["MONDAY", "FRIDAY"],
+    "feeAmount": 1800.0,
+    "emailId": "bob@example.com",
+    "phoneNumber": "5551234567",
+    "classOrPurpose": "Science",
+    "dateOfBirth": "2004-02-28",
+    "password": "student3@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Emma Davis",
+    "uniqueId": "1004",
+    "regularClassDays": ["WEDNESDAY", "THURSDAY"],
+    "feeAmount": 2500.0,
+    "emailId": "emma@example.com",
+    "phoneNumber": "7894561230",
+    "classOrPurpose": "History",
+    "dateOfBirth": "2002-10-20",
+    "password": "student4@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Sophia Wilson",
+    "uniqueId": "1005",
+    "regularClassDays": ["TUESDAY", "FRIDAY"],
+    "feeAmount": 1900.0,
+    "emailId": "sophia@example.com",
+    "phoneNumber": "1237894560",
+    "classOrPurpose": "Geography",
+    "dateOfBirth": "2003-07-05",
+    "password": "student5@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Oliver Thompson",
+    "uniqueId": "1006",
+    "regularClassDays": ["MONDAY", "WEDNESDAY"],
+    "feeAmount": 2200.0,
+    "emailId": "oliver@example.com",
+    "phoneNumber": "9870123456",
+    "classOrPurpose": "Math",
+    "dateOfBirth": "2004-04-12",
+    "password": "student6@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Ava Anderson",
+    "uniqueId": "1007",
+    "regularClassDays": ["TUESDAY", "THURSDAY"],
+    "feeAmount": 1700.0,
+    "emailId": "ava@example.com",
+    "phoneNumber": "5557890123",
+    "classOrPurpose": "English",
+    "dateOfBirth": "2003-01-18",
+    "password": "student7@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Liam Brown",
+    "uniqueId": "1008",
+    "regularClassDays": ["WEDNESDAY", "FRIDAY"],
+    "feeAmount": 2100.0,
+    "emailId": "liam@example.com",
+    "phoneNumber": "1230123456",
+    "classOrPurpose": "Science",
+    "dateOfBirth": "2004-09-30",
+    "password": "student8@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Mia Green",
+    "uniqueId": "1009",
+    "regularClassDays": ["MONDAY", "THURSDAY"],
+    "feeAmount": 2300.0,
+    "emailId": "mia@example.com",
+    "phoneNumber": "9877890123",
+    "classOrPurpose": "History",
+    "dateOfBirth": "2002-12-08",
+    "password": "student9@123",
+    "isAdmin": false
+  },
+  {
+    "name": "Noah Clark",
+    "uniqueId": "1010",
+    "regularClassDays": ["TUESDAY", "FRIDAY"],
+    "feeAmount": 2000.0,
+    "emailId": "noah@example.com",
+    "phoneNumber": "5550123456",
+    "classOrPurpose": "Geography",
+    "dateOfBirth": "2003-06-25",
+    "password": "student10@123",
+    "isAdmin": false
+  }
+]

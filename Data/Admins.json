@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "phoneNumber": "9876543210",
+      "password": "admin@123",
+      "totalOnlinePayment": 2500.0,
+      "totalCashPayment": 1000.0,
+      "isAdmin": true
+    },
+    {
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "phoneNumber": "5551234567",
+      "password": "admin123",
+      "totalOnlinePayment": 500.0,
+      "totalCashPayment": 200.0,
+      "isAdmin": true
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "phoneNumber": "7894561230",
+      "password": "admin@456",
+      "totalOnlinePayment": 3000.0,
+      "totalCashPayment": 800.0,
+      "isAdmin": false
+    }
+]
